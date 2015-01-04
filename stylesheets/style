@@ -1,0 +1,5 @@
+nav ul li{
+  float:left;
+  margin-right:20;
+  font-size:30px;
+}
